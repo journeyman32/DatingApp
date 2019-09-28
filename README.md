@@ -1,2 +1,2 @@
 # DatingApp
-ASPNEt Core 2.2 with ANGULAR 7
+ASPNEt Core 3.0 with ANGULAR 7
